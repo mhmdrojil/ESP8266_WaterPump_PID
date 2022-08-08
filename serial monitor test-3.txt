@@ -1,0 +1,758 @@
+
+Sensor : 1024
+Presentase : 0
+Waktu Selisih : 7045
+Error Awal : 60,00
+Koreksi P : 60,00
+Koreksi I : 422700,00
+Koreksi D : 0,01
+Kecepatan(P) : 60,00
+Kecepatan(PI) : 95,08
+Kecepatan(PID) : 100,52
+
+Sensor : 1024
+Presentase : 0
+Waktu Selisih : 402
+Error Awal : 60,00
+Koreksi P : 60,00
+Koreksi I : 422700,00
+Koreksi D : 0,00
+Kecepatan(P) : 60,00
+Kecepatan(PI) : 95,08
+Kecepatan(PID) : 95,08
+
+Sensor : 1024
+Presentase : 0
+Waktu Selisih : 402
+Error Awal : 60,00
+Koreksi P : 60,00
+Koreksi I : 422700,00
+Koreksi D : 0,00
+Kecepatan(P) : 60,00
+Kecepatan(PI) : 95,08
+Kecepatan(PID) : 95,08
+
+Sensor : 1024
+Presentase : 0
+Waktu Selisih : 402
+Error Awal : 60,00
+Koreksi P : 60,00
+Koreksi I : 422700,00
+Koreksi D : 0,00
+Kecepatan(P) : 60,00
+Kecepatan(PI) : 95,08
+Kecepatan(PID) : 95,08
+
+Sensor : 1024
+Presentase : 0
+Waktu Selisih : 402
+Error Awal : 60,00
+Koreksi P : 60,00
+Koreksi I : 422700,00
+Koreksi D : 0,00
+Kecepatan(P) : 60,00
+Kecepatan(PI) : 95,08
+Kecepatan(PID) : 95,08
+
+Sensor : 1024
+Presentase : 0
+Waktu Selisih : 402
+Error Awal : 60,00
+Koreksi P : 60,00
+Koreksi I : 422700,00
+Koreksi D : 0,00
+Kecepatan(P) : 60,00
+Kecepatan(PI) : 95,08
+Kecepatan(PID) : 95,08
+
+Sensor : 945
+Presentase : 8
+Waktu Selisih : 402
+Error Awal : 52,00
+Koreksi P : 52,00
+Koreksi I : 419484,00
+Koreksi D : -0,02
+Kecepatan(P) : 52,00
+Kecepatan(PI) : 86,82
+Kecepatan(PID) : 74,12
+
+Sensor : 951
+Presentase : 7
+Waktu Selisih : 402
+Error Awal : 53,00
+Koreksi P : 53,00
+Koreksi I : 419886,00
+Koreksi D : 0,00
+Kecepatan(P) : 53,00
+Kecepatan(PI) : 87,85
+Kecepatan(PID) : 89,44
+
+Sensor : 942
+Presentase : 8
+Waktu Selisih : 402
+Error Awal : 52,00
+Koreksi P : 52,00
+Koreksi I : 419484,00
+Koreksi D : -0,00
+Kecepatan(P) : 52,00
+Kecepatan(PI) : 86,82
+Kecepatan(PID) : 85,23
+
+Sensor : 943
+Presentase : 8
+Waktu Selisih : 402
+Error Awal : 52,00
+Koreksi P : 52,00
+Koreksi I : 419484,00
+Koreksi D : 0,00
+Kecepatan(P) : 52,00
+Kecepatan(PI) : 86,82
+Kecepatan(PID) : 86,82
+
+Sensor : 941
+Presentase : 8
+Waktu Selisih : 402
+Error Awal : 52,00
+Koreksi P : 52,00
+Koreksi I : 419484,00
+Koreksi D : 0,00
+Kecepatan(P) : 52,00
+Kecepatan(PI) : 86,82
+Kecepatan(PID) : 86,82
+
+Sensor : 931
+Presentase : 9
+Waktu Selisih : 402
+Error Awal : 51,00
+Koreksi P : 51,00
+Koreksi I : 419082,00
+Koreksi D : -0,00
+Kecepatan(P) : 51,00
+Kecepatan(PI) : 85,78
+Kecepatan(PID) : 84,20
+
+Sensor : 920
+Presentase : 10
+Waktu Selisih : 402
+Error Awal : 50,00
+Koreksi P : 50,00
+Koreksi I : 418680,00
+Koreksi D : -0,00
+Kecepatan(P) : 50,00
+Kecepatan(PI) : 84,75
+Kecepatan(PID) : 83,16
+
+Sensor : 909
+Presentase : 11
+Waktu Selisih : 402
+Error Awal : 49,00
+Koreksi P : 49,00
+Koreksi I : 418278,00
+Koreksi D : -0,00
+Kecepatan(P) : 49,00
+Kecepatan(PI) : 83,72
+Kecepatan(PID) : 82,13
+
+Sensor : 895
+Presentase : 13
+Waktu Selisih : 402
+Error Awal : 47,00
+Koreksi P : 47,00
+Koreksi I : 417474,00
+Koreksi D : -0,00
+Kecepatan(P) : 47,00
+Kecepatan(PI) : 81,65
+Kecepatan(PID) : 78,48
+
+Sensor : 895
+Presentase : 13
+Waktu Selisih : 402
+Error Awal : 47,00
+Koreksi P : 47,00
+Koreksi I : 417474,00
+Koreksi D : 0,00
+Kecepatan(P) : 47,00
+Kecepatan(PI) : 81,65
+Kecepatan(PID) : 81,65
+
+Sensor : 895
+Presentase : 13
+Waktu Selisih : 402
+Error Awal : 47,00
+Koreksi P : 47,00
+Koreksi I : 417474,00
+Koreksi D : 0,00
+Kecepatan(P) : 47,00
+Kecepatan(PI) : 81,65
+Kecepatan(PID) : 81,65
+
+Sensor : 895
+Presentase : 13
+Waktu Selisih : 402
+Error Awal : 47,00
+Koreksi P : 47,00
+Koreksi I : 417474,00
+Koreksi D : 0,00
+Kecepatan(P) : 47,00
+Kecepatan(PI) : 81,65
+Kecepatan(PID) : 81,65
+
+Sensor : 892
+Presentase : 13
+Waktu Selisih : 402
+Error Awal : 47,00
+Koreksi P : 47,00
+Koreksi I : 417474,00
+Koreksi D : 0,00
+Kecepatan(P) : 47,00
+Kecepatan(PI) : 81,65
+Kecepatan(PID) : 81,65
+
+Sensor : 888
+Presentase : 13
+Waktu Selisih : 402
+Error Awal : 47,00
+Koreksi P : 47,00
+Koreksi I : 417474,00
+Koreksi D : 0,00
+Kecepatan(P) : 47,00
+Kecepatan(PI) : 81,65
+Kecepatan(PID) : 81,65
+
+Sensor : 880
+Presentase : 14
+Waktu Selisih : 402
+Error Awal : 46,00
+Koreksi P : 46,00
+Koreksi I : 417072,00
+Koreksi D : -0,00
+Kecepatan(P) : 46,00
+Kecepatan(PI) : 80,62
+Kecepatan(PID) : 79,03
+
+Sensor : 873
+Presentase : 15
+Waktu Selisih : 402
+Error Awal : 45,00
+Koreksi P : 45,00
+Koreksi I : 416670,00
+Koreksi D : -0,00
+Kecepatan(P) : 45,00
+Kecepatan(PI) : 79,58
+Kecepatan(PID) : 78,00
+
+Sensor : 861
+Presentase : 16
+Waktu Selisih : 402
+Error Awal : 44,00
+Koreksi P : 44,00
+Koreksi I : 416268,00
+Koreksi D : -0,00
+Kecepatan(P) : 44,00
+Kecepatan(PI) : 78,55
+Kecepatan(PID) : 76,96
+
+Sensor : 834
+Presentase : 19
+Waktu Selisih : 402
+Error Awal : 41,00
+Koreksi P : 41,00
+Koreksi I : 415062,00
+Koreksi D : -0,01
+Kecepatan(P) : 41,00
+Kecepatan(PI) : 75,45
+Kecepatan(PID) : 70,69
+
+Sensor : 832
+Presentase : 19
+Waktu Selisih : 402
+Error Awal : 41,00
+Koreksi P : 41,00
+Koreksi I : 415062,00
+Koreksi D : 0,00
+Kecepatan(P) : 41,00
+Kecepatan(PI) : 75,45
+Kecepatan(PID) : 75,45
+
+Sensor : 817
+Presentase : 20
+Waktu Selisih : 402
+Error Awal : 40,00
+Koreksi P : 40,00
+Koreksi I : 414660,00
+Koreksi D : -0,00
+Kecepatan(P) : 40,00
+Kecepatan(PI) : 74,42
+Kecepatan(PID) : 72,83
+
+Sensor : 792
+Presentase : 23
+Waktu Selisih : 402
+Error Awal : 37,00
+Koreksi P : 37,00
+Koreksi I : 413454,00
+Koreksi D : -0,01
+Kecepatan(P) : 37,00
+Kecepatan(PI) : 71,32
+Kecepatan(PID) : 66,56
+
+Sensor : 786
+Presentase : 23
+Waktu Selisih : 402
+Error Awal : 37,00
+Koreksi P : 37,00
+Koreksi I : 413454,00
+Koreksi D : 0,00
+Kecepatan(P) : 37,00
+Kecepatan(PI) : 71,32
+Kecepatan(PID) : 71,32
+
+Sensor : 762
+Presentase : 26
+Waktu Selisih : 402
+Error Awal : 34,00
+Koreksi P : 34,00
+Koreksi I : 412248,00
+Koreksi D : -0,01
+Kecepatan(P) : 34,00
+Kecepatan(PI) : 68,22
+Kecepatan(PID) : 63,46
+
+Sensor : 753
+Presentase : 26
+Waktu Selisih : 402
+Error Awal : 34,00
+Koreksi P : 34,00
+Koreksi I : 412248,00
+Koreksi D : 0,00
+Kecepatan(P) : 34,00
+Kecepatan(PI) : 68,22
+Kecepatan(PID) : 68,22
+
+Sensor : 753
+Presentase : 26
+Waktu Selisih : 402
+Error Awal : 34,00
+Koreksi P : 34,00
+Koreksi I : 412248,00
+Koreksi D : 0,00
+Kecepatan(P) : 34,00
+Kecepatan(PI) : 68,22
+Kecepatan(PID) : 68,22
+
+Sensor : 728
+Presentase : 29
+Waktu Selisih : 402
+Error Awal : 31,00
+Koreksi P : 31,00
+Koreksi I : 411042,00
+Koreksi D : -0,01
+Kecepatan(P) : 31,00
+Kecepatan(PI) : 65,12
+Kecepatan(PID) : 60,36
+
+Sensor : 717
+Presentase : 30
+Waktu Selisih : 402
+Error Awal : 30,00
+Koreksi P : 30,00
+Koreksi I : 410640,00
+Koreksi D : -0,00
+Kecepatan(P) : 30,00
+Kecepatan(PI) : 64,08
+Kecepatan(PID) : 62,50
+
+Sensor : 709
+Presentase : 31
+Waktu Selisih : 402
+Error Awal : 29,00
+Koreksi P : 29,00
+Koreksi I : 410238,00
+Koreksi D : -0,00
+Kecepatan(P) : 29,00
+Kecepatan(PI) : 63,05
+Kecepatan(PID) : 61,46
+
+Sensor : 692
+Presentase : 32
+Waktu Selisih : 402
+Error Awal : 28,00
+Koreksi P : 28,00
+Koreksi I : 409836,00
+Koreksi D : -0,00
+Kecepatan(P) : 28,00
+Kecepatan(PI) : 62,02
+Kecepatan(PID) : 60,43
+
+Sensor : 684
+Presentase : 33
+Waktu Selisih : 402
+Error Awal : 27,00
+Koreksi P : 27,00
+Koreksi I : 409434,00
+Koreksi D : -0,00
+Kecepatan(P) : 27,00
+Kecepatan(PI) : 60,98
+Kecepatan(PID) : 59,40
+
+Sensor : 646
+Presentase : 37
+Waktu Selisih : 402
+Error Awal : 23,00
+Koreksi P : 23,00
+Koreksi I : 407826,00
+Koreksi D : -0,01
+Kecepatan(P) : 23,00
+Kecepatan(PI) : 56,85
+Kecepatan(PID) : 50,50
+
+Sensor : 632
+Presentase : 38
+Waktu Selisih : 402
+Error Awal : 22,00
+Koreksi P : 22,00
+Koreksi I : 407424,00
+Koreksi D : -0,00
+Kecepatan(P) : 22,00
+Kecepatan(PI) : 55,82
+Kecepatan(PID) : 54,23
+
+Sensor : 626
+Presentase : 39
+Waktu Selisih : 402
+Error Awal : 21,00
+Koreksi P : 21,00
+Koreksi I : 407022,00
+Koreksi D : -0,00
+Kecepatan(P) : 21,00
+Kecepatan(PI) : 54,78
+Kecepatan(PID) : 53,20
+
+Sensor : 576
+Presentase : 44
+Waktu Selisih : 402
+Error Awal : 16,00
+Koreksi P : 16,00
+Koreksi I : 405012,00
+Koreksi D : -0,01
+Kecepatan(P) : 16,00
+Kecepatan(PI) : 49,62
+Kecepatan(PID) : 41,68
+
+Sensor : 576
+Presentase : 44
+Waktu Selisih : 402
+Error Awal : 16,00
+Koreksi P : 16,00
+Koreksi I : 405012,00
+Koreksi D : 0,00
+Kecepatan(P) : 16,00
+Kecepatan(PI) : 49,62
+Kecepatan(PID) : 49,62
+
+Sensor : 545
+Presentase : 47
+Waktu Selisih : 402
+Error Awal : 13,00
+Koreksi P : 13,00
+Koreksi I : 403806,00
+Koreksi D : -0,01
+Kecepatan(P) : 13,00
+Kecepatan(PI) : 46,52
+Kecepatan(PID) : 41,75
+
+Sensor : 554
+Presentase : 46
+Waktu Selisih : 402
+Error Awal : 14,00
+Koreksi P : 14,00
+Koreksi I : 404208,00
+Koreksi D : 0,00
+Kecepatan(P) : 14,00
+Kecepatan(PI) : 47,55
+Kecepatan(PID) : 49,14
+
+Sensor : 558
+Presentase : 46
+Waktu Selisih : 402
+Error Awal : 14,00
+Koreksi P : 14,00
+Koreksi I : 404208,00
+Koreksi D : 0,00
+Kecepatan(P) : 14,00
+Kecepatan(PI) : 47,55
+Kecepatan(PID) : 47,55
+
+Sensor : 567
+Presentase : 45
+Waktu Selisih : 402
+Error Awal : 15,00
+Koreksi P : 15,00
+Koreksi I : 404610,00
+Koreksi D : 0,00
+Kecepatan(P) : 15,00
+Kecepatan(PI) : 48,58
+Kecepatan(PID) : 50,17
+
+Sensor : 571
+Presentase : 44
+Waktu Selisih : 402
+Error Awal : 16,00
+Koreksi P : 16,00
+Koreksi I : 405012,00
+Koreksi D : 0,00
+Kecepatan(P) : 16,00
+Kecepatan(PI) : 49,62
+Kecepatan(PID) : 51,20
+
+Sensor : 576
+Presentase : 44
+Waktu Selisih : 402
+Error Awal : 16,00
+Koreksi P : 16,00
+Koreksi I : 405012,00
+Koreksi D : 0,00
+Kecepatan(P) : 16,00
+Kecepatan(PI) : 49,62
+Kecepatan(PID) : 49,62
+
+Sensor : 578
+Presentase : 44
+Waktu Selisih : 402
+Error Awal : 16,00
+Koreksi P : 16,00
+Koreksi I : 405012,00
+Koreksi D : 0,00
+Kecepatan(P) : 16,00
+Kecepatan(PI) : 49,62
+Kecepatan(PID) : 49,62
+
+Sensor : 567
+Presentase : 45
+Waktu Selisih : 402
+Error Awal : 15,00
+Koreksi P : 15,00
+Koreksi I : 404610,00
+Koreksi D : -0,00
+Kecepatan(P) : 15,00
+Kecepatan(PI) : 48,58
+Kecepatan(PID) : 47,00
+
+Sensor : 559
+Presentase : 45
+Waktu Selisih : 402
+Error Awal : 15,00
+Koreksi P : 15,00
+Koreksi I : 404610,00
+Koreksi D : 0,00
+Kecepatan(P) : 15,00
+Kecepatan(PI) : 48,58
+Kecepatan(PID) : 48,58
+
+Sensor : 559
+Presentase : 45
+Waktu Selisih : 402
+Error Awal : 15,00
+Koreksi P : 15,00
+Koreksi I : 404610,00
+Koreksi D : 0,00
+Kecepatan(P) : 15,00
+Kecepatan(PI) : 48,58
+Kecepatan(PID) : 48,58
+
+Sensor : 562
+Presentase : 45
+Waktu Selisih : 402
+Error Awal : 15,00
+Koreksi P : 15,00
+Koreksi I : 404610,00
+Koreksi D : 0,00
+Kecepatan(P) : 15,00
+Kecepatan(PI) : 48,58
+Kecepatan(PID) : 48,58
+
+Sensor : 566
+Presentase : 45
+Waktu Selisih : 402
+Error Awal : 15,00
+Koreksi P : 15,00
+Koreksi I : 404610,00
+Koreksi D : 0,00
+Kecepatan(P) : 15,00
+Kecepatan(PI) : 48,58
+Kecepatan(PID) : 48,58
+
+Sensor : 571
+Presentase : 44
+Waktu Selisih : 402
+Error Awal : 16,00
+Koreksi P : 16,00
+Koreksi I : 405012,00
+Koreksi D : 0,00
+Kecepatan(P) : 16,00
+Kecepatan(PI) : 49,62
+Kecepatan(PID) : 51,20
+
+Sensor : 578
+Presentase : 44
+Waktu Selisih : 402
+Error Awal : 16,00
+Koreksi P : 16,00
+Koreksi I : 405012,00
+Koreksi D : 0,00
+Kecepatan(P) : 16,00
+Kecepatan(PI) : 49,62
+Kecepatan(PID) : 49,62
+
+Sensor : 583
+Presentase : 43
+Waktu Selisih : 402
+Error Awal : 17,00
+Koreksi P : 17,00
+Koreksi I : 405414,00
+Koreksi D : 0,00
+Kecepatan(P) : 17,00
+Kecepatan(PI) : 50,65
+Kecepatan(PID) : 52,24
+
+Sensor : 588
+Presentase : 43
+Waktu Selisih : 402
+Error Awal : 17,00
+Koreksi P : 17,00
+Koreksi I : 405414,00
+Koreksi D : 0,00
+Kecepatan(P) : 17,00
+Kecepatan(PI) : 50,65
+Kecepatan(PID) : 50,65
+
+Sensor : 592
+Presentase : 42
+Waktu Selisih : 402
+Error Awal : 18,00
+Koreksi P : 18,00
+Koreksi I : 405816,00
+Koreksi D : 0,00
+Kecepatan(P) : 18,00
+Kecepatan(PI) : 51,68
+Kecepatan(PID) : 53,27
+
+Sensor : 596
+Presentase : 42
+Waktu Selisih : 402
+Error Awal : 18,00
+Koreksi P : 18,00
+Koreksi I : 405816,00
+Koreksi D : 0,00
+Kecepatan(P) : 18,00
+Kecepatan(PI) : 51,68
+Kecepatan(PID) : 51,68
+
+Sensor : 601
+Presentase : 41
+Waktu Selisih : 402
+Error Awal : 19,00
+Koreksi P : 19,00
+Koreksi I : 406218,00
+Koreksi D : 0,00
+Kecepatan(P) : 19,00
+Kecepatan(PI) : 52,72
+Kecepatan(PID) : 54,30
+
+Sensor : 606
+Presentase : 41
+Waktu Selisih : 402
+Error Awal : 19,00
+Koreksi P : 19,00
+Koreksi I : 406218,00
+Koreksi D : 0,00
+Kecepatan(P) : 19,00
+Kecepatan(PI) : 52,72
+Kecepatan(PID) : 52,72
+
+Sensor : 608
+Presentase : 41
+Waktu Selisih : 402
+Error Awal : 19,00
+Koreksi P : 19,00
+Koreksi I : 406218,00
+Koreksi D : 0,00
+Kecepatan(P) : 19,00
+Kecepatan(PI) : 52,72
+Kecepatan(PID) : 52,72
+
+Sensor : 613
+Presentase : 40
+Waktu Selisih : 402
+Error Awal : 20,00
+Koreksi P : 20,00
+Koreksi I : 406620,00
+Koreksi D : 0,00
+Kecepatan(P) : 20,00
+Kecepatan(PI) : 53,75
+Kecepatan(PID) : 55,34
+
+Sensor : 618
+Presentase : 40
+Waktu Selisih : 402
+Error Awal : 20,00
+Koreksi P : 20,00
+Koreksi I : 406620,00
+Koreksi D : 0,00
+Kecepatan(P) : 20,00
+Kecepatan(PI) : 53,75
+Kecepatan(PID) : 53,75
+
+Sensor : 621
+Presentase : 39
+Waktu Selisih : 402
+Error Awal : 21,00
+Koreksi P : 21,00
+Koreksi I : 407022,00
+Koreksi D : 0,00
+Kecepatan(P) : 21,00
+Kecepatan(PI) : 54,78
+Kecepatan(PID) : 56,37
+
+Sensor : 626
+Presentase : 39
+Waktu Selisih : 402
+Error Awal : 21,00
+Koreksi P : 21,00
+Koreksi I : 407022,00
+Koreksi D : 0,00
+Kecepatan(P) : 21,00
+Kecepatan(PI) : 54,78
+Kecepatan(PID) : 54,78
+
+Sensor : 628
+Presentase : 39
+Waktu Selisih : 402
+Error Awal : 21,00
+Koreksi P : 21,00
+Koreksi I : 407022,00
+Koreksi D : 0,00
+Kecepatan(P) : 21,00
+Kecepatan(PI) : 54,78
+Kecepatan(PID) : 54,78
+
+Sensor : 633
+Presentase : 38
+Waktu Selisih : 402
+Error Awal : 22,00
+Koreksi P : 22,00
+Koreksi I : 407424,00
+Koreksi D : 0,00
+Kecepatan(P) : 22,00
+Kecepatan(PI) : 55,82
+Kecepatan(PID) : 57,40
+
+Sensor : 637
+Presentase : 38
+Waktu Selisih : 402
+Error Awal : 22,00
+Koreksi P : 22,00
+Koreksi I : 407424,00
+Koreksi D : 0,00
+Kecepatan(P) : 22,00
+Ke⸮⸮⸮

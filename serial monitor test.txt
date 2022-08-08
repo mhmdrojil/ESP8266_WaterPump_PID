@@ -1,0 +1,1016 @@
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 7155
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 100.98
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 918
+Presentase : 10
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 50.00
+Kecepatan(P) : 50.00
+Kecepatan(PI) : 85.30
+Kecepatan(PID) : 69.43
+
+Sensor : 734
+Presentase : 28
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 32.00
+Kecepatan(P) : 32.00
+Kecepatan(PI) : 66.70
+Kecepatan(PID) : 38.13
+
+Sensor : 641
+Presentase : 37
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 23.00
+Kecepatan(P) : 23.00
+Kecepatan(PI) : 57.40
+Kecepatan(PID) : 43.11
+
+Sensor : 607
+Presentase : 41
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 19.00
+Kecepatan(P) : 19.00
+Kecepatan(PI) : 53.26
+Kecepatan(PID) : 46.92
+
+Sensor : 603
+Presentase : 41
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 19.00
+Kecepatan(P) : 19.00
+Kecepatan(PI) : 53.26
+Kecepatan(PID) : 53.26
+
+Sensor : 584
+Presentase : 43
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 17.00
+Kecepatan(P) : 17.00
+Kecepatan(PI) : 51.20
+Kecepatan(PID) : 48.02
+
+Sensor : 567
+Presentase : 45
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 15.00
+Kecepatan(P) : 15.00
+Kecepatan(PI) : 49.13
+Kecepatan(PID) : 45.96
+
+Sensor : 560
+Presentase : 45
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 15.00
+Kecepatan(P) : 15.00
+Kecepatan(PI) : 49.13
+Kecepatan(PID) : 49.13
+
+Sensor : 553
+Presentase : 46
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 14.00
+Kecepatan(P) : 14.00
+Kecepatan(PI) : 48.10
+Kecepatan(PID) : 46.51
+
+Sensor : 545
+Presentase : 47
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 13.00
+Kecepatan(P) : 13.00
+Kecepatan(PI) : 47.06
+Kecepatan(PID) : 45.48
+
+Sensor : 534
+Presentase : 48
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 12.00
+Kecepatan(P) : 12.00
+Kecepatan(PI) : 46.03
+Kecepatan(PID) : 44.44
+
+Sensor : 525
+Presentase : 49
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 11.00
+Kecepatan(P) : 11.00
+Kecepatan(PI) : 45.00
+Kecepatan(PID) : 43.41
+
+Sensor : 523
+Presentase : 49
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 11.00
+Kecepatan(P) : 11.00
+Kecepatan(PI) : 45.00
+Kecepatan(PID) : 45.00
+
+Sensor : 517
+Presentase : 50
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 10.00
+Kecepatan(P) : 10.00
+Kecepatan(PI) : 43.96
+Kecepatan(PID) : 42.38
+
+Sensor : 518
+Presentase : 49
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 11.00
+Kecepatan(P) : 11.00
+Kecepatan(PI) : 45.00
+Kecepatan(PID) : 46.58
+
+Sensor : 513
+Presentase : 50
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 10.00
+Kecepatan(P) : 10.00
+Kecepatan(PI) : 43.96
+Kecepatan(PID) : 42.38
+
+Sensor : 514
+Presentase : 50
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 10.00
+Kecepatan(P) : 10.00
+Kecepatan(PI) : 43.96
+Kecepatan(PID) : 43.96
+
+Sensor : 514
+Presentase : 50
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 10.00
+Kecepatan(P) : 10.00
+Kecepatan(PI) : 43.96
+Kecepatan(PID) : 43.96
+
+Sensor : 513
+Presentase : 50
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 10.00
+Kecepatan(P) : 10.00
+Kecepatan(PI) : 43.96
+Kecepatan(PID) : 43.96
+
+Sensor : 516
+Presentase : 50
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 10.00
+Kecepatan(P) : 10.00
+Kecepatan(PI) : 43.96
+Kecepatan(PID) : 43.96
+
+Sensor : 514
+Presentase : 50
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 403
+Error Awal : 10.00
+Kecepatan(P) : 10.00
+Kecepatan(PI) : 43.96
+Kecepatan(PID) : 43.96
+
+Sensor : 514
+Presentase : 50
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 10.00
+Kecepatan(P) : 10.00
+Kecepatan(PI) : 43.96
+Kecepatan(PID) : 43.96
+
+Sensor : 514
+Presentase : 50
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 10.00
+Kecepatan(P) : 10.00
+Kecepatan(PI) : 43.96
+Kecepatan(PID) : 43.96
+
+Sensor : 514
+Presentase : 50
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 10.00
+Kecepatan(P) : 10.00
+Kecepatan(PI) : 43.96
+Kecepatan(PID) : 43.96
+
+Sensor : 516
+Presentase : 50
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 10.00
+Kecepatan(P) : 10.00
+Kecepatan(PI) : 43.96
+Kecepatan(PID) : 43.96
+
+Sensor : 517
+Presentase : 50
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 10.00
+Kecepatan(P) : 10.00
+Kecepatan(PI) : 43.96
+Kecepatan(PID) : 43.96
+
+Sensor : 517
+Presentase : 50
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 10.00
+Kecepatan(P) : 10.00
+Kecepatan(PI) : 43.96
+Kecepatan(PID) : 43.96
+
+Sensor : 517
+Presentase : 50
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 10.00
+Kecepatan(P) : 10.00
+Kecepatan(PI) : 43.96
+Kecepatan(PID) : 43.96
+
+Sensor : 517
+Presentase : 50
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 403
+Error Awal : 10.00
+Kecepatan(P) : 10.00
+Kecepatan(PI) : 43.96
+Kecepatan(PID) : 43.96
+
+Sensor : 518
+Presentase : 49
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 403
+Error Awal : 11.00
+Kecepatan(P) : 11.00
+Kecepatan(PI) : 45.00
+Kecepatan(PID) : 46.58
+
+Sensor : 519
+Presentase : 49
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 11.00
+Kecepatan(P) : 11.00
+Kecepatan(PI) : 45.00
+Kecepatan(PID) : 45.00
+
+Sensor : 520
+Presentase : 49
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 11.00
+Kecepatan(P) : 11.00
+Kecepatan(PI) : 45.00
+Kecepatan(PID) : 45.00
+
+Sensor : 520
+Presentase : 49
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 11.00
+Kecepatan(P) : 11.00
+Kecepatan(PI) : 45.00
+Kecepatan(PID) : 45.00
+
+Sensor : 522
+Presentase : 49
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 11.00
+Kecepatan(P) : 11.00
+Kecepatan(PI) : 45.00
+Kecepatan(PID) : 45.00
+
+Sensor : 522
+Presentase : 49
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 11.00
+Kecepatan(P) : 11.00
+Kecepatan(PI) : 45.00
+Kecepatan(PID) : 45.00
+
+Sensor : 523
+Presentase : 49
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 11.00
+Kecepatan(P) : 11.00
+Kecepatan(PI) : 45.00
+Kecepatan(PID) : 45.00
+
+Sensor : 524
+Presentase : 49
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 11.00
+Kecepatan(P) : 11.00
+Kecepatan(PI) : 45.00
+Kecepatan(PID) : 45.00
+
+Sensor : 524
+Presentase : 49
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 11.00
+Kecepatan(P) : 11.00
+Kecepatan(PI) : 45.00
+Kecepatan(PID) : 45.00
+
+Sensor : 524
+Presentase : 49
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 11.00
+Kecepatan(P) : 11.00
+Kecepatan(PI) : 45.00
+Kecepatan(PID) : 45.00
+
+Sensor : 525
+Presentase : 49
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 11.00
+Kecepatan(P) : 11.00
+Kecepatan(PI) : 45.00
+Kecepatan(PID) : 45.00
+
+Sensor : 524
+Presentase : 49
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 11.00
+Kecepatan(P) : 11.00
+Kecepatan(PI) : 45.00
+Kecepatan(PID) : 45.00
+
+Sensor : 525
+Presentase : 49
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 11.00
+Kecepatan(P) : 11.00
+Kecepatan(PI) : 45.00
+Kecepatan(PID) : 45.00
+
+Sensor : 525
+Presentase : 49
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 11.00
+Kecepatan(P) : 11.00
+Kecepatan(PI) : 45.00
+Kecepatan(PID) : 45.00
+
+Sensor : 526
+Presentase : 49
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 11.00
+Kecepatan(P) : 11.00
+Kecepatan(PI) : 45.00
+Kecepatan(PID) : 45.00
+
+Sensor : 529
+Presentase : 48
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 12.00
+Kecepatan(P) : 12.00
+Kecepatan(PI) : 46.03
+Kecepatan(PID) : 47.62
+
+Sensor : 532
+Presentase : 48
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 12.00
+Kecepatan(P) : 12.00
+Kecepatan(PI) : 46.03
+Kecepatan(PID) : 46.03
+
+Sensor : 531
+Presentase : 48
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 12.00
+Kecepatan(P) : 12.00
+Kecepatan(PI) : 46.03
+Kecepatan(PID) : 46.03
+
+Sensor : 531
+Presentase : 48
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 12.00
+Kecepatan(P) : 12.00
+Kecepatan(PI) : 46.03
+Kecepatan(PID) : 46.03
+
+Sensor : 531
+Presentase : 48
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 12.00
+Kecepatan(P) : 12.00
+Kecepatan(PI) : 46.03
+Kecepatan(PID) : 46.03
+
+Sensor : 530
+Presentase : 48
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 12.00
+Kecepatan(P) : 12.00
+Kecepatan(PI) : 46.03
+Kecepatan(PID) : 46.03
+
+Sensor : 531
+Presentase : 48
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 12.00
+Kecepatan(P) : 12.00
+Kecepatan(PI) : 46.03
+Kecepatan(PID) : 46.03
+
+Sensor : 534
+Presentase : 48
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 12.00
+Kecepatan(P) : 12.00
+Kecepatan(PI) : 46.03
+Kecepatan(PID) : 46.03
+
+Sensor : 546
+Presentase : 47
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 403
+Error Awal : 13.00
+Kecepatan(P) : 13.00
+Kecepatan(PI) : 47.06
+Kecepatan(PID) : 48.65
+
+Sensor : 675
+Presentase : 34
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 26.00
+Kecepatan(P) : 26.00
+Kecepatan(PI) : 60.50
+Kecepatan(PID) : 81.13
+
+Sensor : 876
+Presentase : 14
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 46.00
+Kecepatan(P) : 46.00
+Kecepatan(PI) : 81.16
+Kecepatan(PID) : 112.91
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 117.85
+
+Sensor : 798
+Presentase : 22
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 38.00
+Kecepatan(P) : 38.00
+Kecepatan(PI) : 72.90
+Kecepatan(PID) : 37.98
+
+Sensor : 483
+Presentase : 53
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 7.00
+Kecepatan(P) : 7.00
+Kecepatan(PI) : 40.86
+Kecepatan(PID) : -8.34
+
+Sensor : 513
+Presentase : 50
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 10.00
+Kecepatan(P) : 10.00
+Kecepatan(PI) : 43.96
+Kecepatan(PID) : 48.73
+
+Sensor : 529
+Presentase : 48
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 12.00
+Kecepatan(P) : 12.00
+Kecepatan(PI) : 46.03
+Kecepatan(PID) : 49.20
+
+Sensor : 536
+Presentase : 48
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 12.00
+Kecepatan(P) : 12.00
+Kecepatan(PI) : 46.03
+Kecepatan(PID) : 46.03
+
+Sensor : 540
+Presentase : 47
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 403
+Error Awal : 13.00
+Kecepatan(P) : 13.00
+Kecepatan(PI) : 47.06
+Kecepatan(PID) : 48.65
+
+Sensor : 542
+Presentase : 47
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 13.00
+Kecepatan(P) : 13.00
+Kecepatan(PI) : 47.06
+Kecepatan(PID) : 47.06
+
+Sensor : 544
+Presentase : 47
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 13.00
+Kecepatan(P) : 13.00
+Kecepatan(PI) : 47.06
+Kecepatan(PID) : 47.06
+
+Sensor : 545
+Presentase : 47
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 13.00
+Kecepatan(P) : 13.00
+Kecepatan(PI) : 47.06
+Kecepatan(PID) : 47.06
+
+Sensor : 546
+Presentase : 47
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 13.00
+Kecepatan(P) : 13.00
+Kecepatan(PI) : 47.06
+Kecepatan(PID) : 47.06
+
+Sensor : 548
+Presentase : 46
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 14.00
+Kecepatan(P) : 14.00
+Kecepatan(PI) : 48.10
+Kecepatan(PID) : 49.68
+
+Sensor : 550
+Presentase : 46
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 14.00
+Kecepatan(P) : 14.00
+Kecepatan(PI) : 48.10
+Kecepatan(PID) : 48.10
+
+Sensor : 552
+Presentase : 46
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 14.00
+Kecepatan(P) : 14.00
+Kecepatan(PI) : 48.10
+Kecepatan(PID) : 48.10
+
+Sensor : 553
+Presentase : 46
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 14.00
+Kecepatan(P) : 14.00
+Kecepatan(PI) : 48.10
+Kecepatan(PID) : 48.10
+
+Sensor : 552
+Presentase : 46
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 14.00
+Kecepatan(P) : 14.00
+Kecepatan(PI) : 48.10
+Kecepatan(PID) : 48.10
+
+Sensor : 554
+Presentase : 46
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 14.00
+Kecepatan(P) : 14.00
+Kecepatan(PI) : 48.10
+Kecepatan(PID) : 48.10
+
+Sensor : 554
+Presentase : 46
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 14.00
+Kecepatan(P) : 14.00
+Kecepatan(PI) : 48.10
+Kecepatan(PID) : 48.10
+
+Sensor : 553
+Presentase : 46
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 14.00
+Kecepatan(P) : 14.00
+Kecepatan(PI) : 48.10
+Kecepatan(PID) : 48.10
+
+Sensor : 555
+Presentase : 46
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 14.00
+Kecepatan(P) : 14.00
+Kecepatan(PI) : 48.10
+Kecepatan(PID) : 48.10
+
+Sensor : 554
+Presentase : 46
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 14.00
+Kecepatan(P) : 14.00
+Kecepatan(PI) : 48.10
+Kecepatan(PID) : 48.10
+
+Sensor : 555
+Presentase : 46
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 14.00
+Kecepatan(P) : 14.00
+Kecepatan(PI) : 48.10
+Kecepatan(PID) : 48.10
+
+Sensor : 569
+Presentase : 44
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 16.00
+Kecepatan(P) : 16.00
+Kecepatan(PI) : 50.16
+Kecepatan(PID) : 53.34
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 165.46
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
+
+Sensor : 1024
+Presentase : 0
+Tanah Kering, Pompa Aktif
+Waktu Selisih : 402
+Error Awal : 60.00
+Kecepatan(P) : 60.00
+Kecepatan(PI) : 95.63
+Kecepatan(PID) : 95.63
