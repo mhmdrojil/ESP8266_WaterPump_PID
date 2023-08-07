@@ -1,2 +1,14 @@
-# Penyiraman_bawang_otomatis_NodeMCU
-Penyiraman Bawang Merah Otomatis dengan mikrokontroller NodeMCU diakses lewat blynk console
+# ESP8266_WaterPump
+Penyiraman Bawang Merah Otomatis dengan mikrokontroller NodeMCU ESP8266
+Feature
+ -Blynk
+ 
+Sensors
+ - FC-28 Sensor
+
+Output 
+  -L928N Motor Driver Module
+  -Water Pump 5v DC
+
+Algorithm
+  -PID Controller
